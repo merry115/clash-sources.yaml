@@ -1,0 +1,22 @@
+# Clash Free Node Sources (Auto Merge)
+# 更新时间: 2025-09-29
+# 使用方法：
+# 1. 上传此文件到 GitHub 仓库根目录
+# 2. raw 链接示例：
+#    https://raw.githubusercontent.com/你的用户名/仓库名/main/clash-sources.yaml
+# 3. 使用 jsDelivr 生成统一订阅地址：
+#    https://cdn.jsdelivr.net/gh/你的用户名/仓库名@main/clash-sources.yaml
+
+urls:
+  - https://raw.githubusercontent.com/Pawdroid/Free-servers/main/clash.yaml
+  - https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yaml
+  - https://raw.githubusercontent.com/nodesfree/clashnode/main/clash.yaml
+  - https://raw.githubusercontent.com/sun9426/sun9426.github.io/main/clash.yaml
+  - https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
+  - https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
+  - https://raw.githubusercontent.com/chengaopan/AutoMerge/main/clash.yaml
+  - https://raw.githubusercontent.com/Misaka-blog/chromego_merge/main/sub/merged_proxies_new.yaml
+  - https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
+  - https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
+  - https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/Clash.yaml
+  - https://raw.githubusercontent.com/clashfree/clashfree.github.io/main/clash.yaml
